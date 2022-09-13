@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(white-elegant-texture-background_23-2148445782.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    margin-top: 20px;
+    font-weight: 900;
+    color: grey;
+}
+section{
+    margin: 30px;
+}
+.top{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: gray;
+}
